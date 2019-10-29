@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "F:\\Conda\\envs\\audio\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
